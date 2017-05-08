@@ -11,7 +11,7 @@
     curl https://raw.githubusercontent.com/morchaos/liu/master/macshiamy.sh |sh
 
 ## 新增輸入法
-![](https://raw.githubusercontent.com/rwu823/liu/master/screens/1.png)
+![](https://github.com/morchaos/liu/raw/master/screens/Add%20Boshiamy%20Input%20Method.png)
 
 ## 字根檔
 你可以自由定義字根檔。
